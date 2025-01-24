@@ -4,7 +4,8 @@ h1 {
 
 img {
     display: block;
-    margin:auto
+    margin:auto;
+    width: 700px;
 }
 
 
@@ -13,7 +14,7 @@ p{
 }
 
 ul{
-    font-size: 1.3rem;
+    font-size: 1.2rem;
 }
 .segundo-parrafo p{
     font-style: oblique;
