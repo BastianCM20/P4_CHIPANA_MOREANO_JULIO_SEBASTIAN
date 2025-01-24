@@ -6,3 +6,19 @@ img {
     display: block;
     margin:auto
 }
+
+
+p{ 
+    font-size: 1.3rem;
+}
+
+ul{
+    font-size: 1.3rem;
+}
+.segundo-parrafo p{
+    font-style: oblique;
+}
+
+.ultimo-parrafo p{
+    font-style: oblique;
+}
